@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "myhlttrac.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "myhlttrac.netlify",
+  "start_url": "./index1.html",
+  "theme_color": "#ffffff",
+  "id": "myhlttrac.netlify",
+  "description": "myhlttrac.netlify",
+  "lang": "en",
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "fullscreen",
+    "browser",
+    "window-controls-overlay"
+  ],
+  "categories": [
+    "health",
+    "lifestyle"
+  ]
+}
